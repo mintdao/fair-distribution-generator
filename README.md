@@ -1,0 +1,1 @@
+# Fair Distribution Generator
